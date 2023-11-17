@@ -63,7 +63,7 @@
   </a> 
   &nbsp;
   <br />
-<!---  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+<!-- <!---  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> --->
   &nbsp;
@@ -78,7 +78,7 @@
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
-  &nbsp;
+  &nbsp; -->
 </p>
 
 ## Connect with me:
