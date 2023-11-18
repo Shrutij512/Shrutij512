@@ -11,7 +11,7 @@
 <img align="right" alt="Coder GIF" height=200 width=300 src="https://cdn.dribbble.com/users/14374/screenshots/3153764/media/08149640c0762f4fe83af0e15378d5bc.gif" />
 
 
-- 👨‍💻 All of my projects are available at &nbsp; <a href="https://github.io" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-purple?style=for-the-badge&logo=Github&logoColor=white" alt="" /></a>
+- 👨‍💻 All of my projects are available at &nbsp; <a href="https://shrutij512.github.io/" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-purple?style=for-the-badge&logo=Github&logoColor=white" alt="" /></a>
 
 <!--- - 💬 Ask me about *Web Development* --->
 
